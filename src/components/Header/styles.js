@@ -32,3 +32,7 @@ export const Cart = styled(Link)`
         }
     }
 `;
+
+export const Logo = styled.img`
+    max-width: 250px;
+`;
